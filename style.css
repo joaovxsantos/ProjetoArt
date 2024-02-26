@@ -18,11 +18,15 @@ ul {
   padding: 0 !important;
 }
 
+ul li {
+  cursor: pointer;
+}
+
 .bgImage {
   height: 400px;
 }
 
-p {
+.titleEl p {
   margin: 0 !important;
 }
 
